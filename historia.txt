@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 It´s my history
 
 I´m 29 years and was born in Posadas
 
+=======
+It´s my history
+
+I´m 29 years and was born in Posadas
+
+>>>>>>> 5bf5fce0703515114add113684e306f60bb5022a
 I study programming
