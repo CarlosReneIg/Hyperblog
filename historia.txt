@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-It´s my history
+Esta es la historia de Freddy Vega
 
-I´m 29 years and was born in Posadas
+Freddy Vega tiene 32 años y nació en Colombia
 
-=======
-It´s my history
+Anita Platzi tiene 41 años y nació en Internet
 
-I´m 29 years and was born in Posadas
-
->>>>>>> 5bf5fce0703515114add113684e306f60bb5022a
-I study programming
+Mañana nos enfocaremos en su vida laboral
